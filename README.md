@@ -2,8 +2,8 @@
 its an example code (just learning to post respository)
 <html> 
   <body>
-    <h1>
+    <h2>
       change this tag to h2
-    </h1>
+    </h2>
   </body>
  </html>
